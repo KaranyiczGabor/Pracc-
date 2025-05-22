@@ -34,4 +34,4 @@ npm start
 node-ba: Ctrl + C
 
 
-
+Scaffold-DbContext "server=localhost;database=**********;user=root;password=password;sslmode=none;" mysql.entityframeworkcore -outputdir Models –f
